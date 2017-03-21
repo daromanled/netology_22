@@ -18,7 +18,6 @@ def ten_words_from_news(country_news):
                 f = True
     
                 for letter in word:
-    
                     if letter not in 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm':
     
                         f = False
